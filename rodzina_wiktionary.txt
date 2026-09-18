@@ -1,0 +1,110 @@
+==Old Polish==
+
+===Etymology===
+{{etymon|zlw-opl|id=family|:inh|sla-pro:*rodina|tree=+|text=+}} {{surf|zlw-opl|ród|-ina}}. {{etydate|14th century}}.
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|f}}
+
+# {{lb|zlw-opl|attested in|Greater Poland}} [[family]] {{gl|people of the same ancestor}}
+#* {{RQ:zlw-opl:BZ|Gen|31, 3|Wrocz szø do zemye swich oczczow a k swey '''rodzynye''' (ad generationem tuam)|Wroć się do ziemie swych oćcow a k swej '''rodzinie''' (ad generationem tuam)|-}}
+#* {{RQ:zlw-opl:WokLub|29v|c. 1500|Cognatio magschafft rod vel '''rodzyną'''|Cognatio magschafft rod vel '''rodzina'''|-}}
+#* {{RQ:zlw-opl:WokLub|95v|c. 1500|Parentela '''rodzyną'''|Parentela '''rodzina'''|-}}
+# {{lb|zlw-opl|attested in|Lesser Poland}} [[parent]]s {{gl|mother and father collectively}}
+#* {{RQ:zlw-opl:Dział|55|Aczby kto dzewką... kromye woley '''rodzyny''' (sine voluntate parentum) zgwalczyl|Aczby kto dziewkę... kromie wolej '''rodziny''' (sine voluntate parentum) zgwałcił|-}}
+# [[forefather]]s
+#* {{RQ:zlw-opl:Rozm|34|Ale to dostoyenstvo pyrva nascha '''rodzyna''' (primi... parentes) svym przestąpyenym straczyly|Ale to dostojeństwo pirwa nasza '''rodzina''' (primi... parentes) swym przestąpienim stracili|-}}
+# [[origin]]
+#* {{RQ:zlw-opl:OrtOssol|42, 4|Gdyby kthory myal vkazacz szwoge '''rodzyną''' (suam nationem seu legitimitatem) albo malzenszkye stadlo, temv moze kaszdy przyrodzony gego przyyaczel... pomocz przygacz|Gdyby ktory miał ukazać swoję '''rodzinę''' (suam nationem seu legitimitatem) albo małżeńskie stadło, temu może każdy przyrodzony jego przyjaciel... pomoc przy[się]gać|-}}
+# [[gender]], [[sex]]
+#* {{RQ:zlw-opl:R|XXV|210|1453|Dzewko, przymy thakye omyszly gospodzyna..., thym szya thwa '''rodzyna''' nyczgey nye poszkodzy|Dziewko, przymi takie omysły Gospodzina..., tym się twa '''rodzina''' nicej nie poszkodzi|-}}
+
+====Descendants====
+* {{desc|pl|rodzina}}
+* {{desc|szl|rodzina}}
+
+===References===
+* {{R:pl:Boryś}}
+* {{R:pl:Mańczak}}
+* {{R:pl:Bańkowski}}
+* {{R:zlw-opl:SPJSP}}
+* {{R:zlw-opl:Rozariusze|+|1939}}
+
+{{C|zlw-opl|Collectives|Family}}
+
+==Polish==
+{{wp|pl:}}
+
+===Etymology===
+{{etymon|pl|id=family|:inh|zlw-opl:rodzina|tree=+|text=+}} {{surf|pl|ród|-ina}}.
+
+===Pronunciation===
+{{pl-pr|a=pl-rodzina.ogg|mp=#}}
+
+===Noun===
+{{pl-noun|f|dim=rodzinka|adj=rodzinny|abbr=rodz.}}
+
+# [[family]] {{gl|parents and children together}}
+# [[family]] {{gl|lineage}}
+#: {{syn|pl|familia|ród}}
+# [[family]] {{gl|group of people who are not related to each other, but connected by religious or ideological ties}}
+# [[family]] {{gl|group or aggregation of things classed together as kindred or related from possessing in common characteristics which distinguish them from other things of the same order}}
+## {{lb|pl|linguistics}} [[family]] {{gl|group of languages believed to have descended from the same ancestral language}}
+## {{lb|pl|biology|taxonomy}} [[family]] {{gl|category in the classification of organisms, ranking below order and above genus; a taxon at that rank}}
+## {{lb|pl|music}} [[family]] {{gl|group of instruments having the same basic method of tone production}}
+# {{lb|pl|obsolete|in the plural}} [[birthday]]
+#: {{syn|pl|urodziny}}
+# {{lb|pl|Middle Polish}} [[inmate]]s; [[coinhabitant]]s
+#: {{syn|pl|współmieszkaniec<alt:współmieszkańcy>}}
+
+====Declension====
+{{pl-decl-noun-f}}
+
+====Derived terms====
+{{col|pl|title=nouns|rodzina nuklearna|rodzina patchworkowa|Święta Rodzina}}
+{{col|pl|title=proverbs|z rodziną najlepiej wychodzi się na zdjęciu}}
+{{pl-derived verbs|wejść do rodziny/wchodzić do rodziny|rodzina się powiększyła/rodzina się powiększa}}
+
+===Trivia===
+{{pl-freq 1990|28|27|26|21|29|131|462|495|2}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+* {{R:pl:SXVI|+|6796}}
+* {{R:pl:SXVII|RODZINA|6898||11.07.2008}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||550|5}}
+
+{{C|pl|Collectives|Family}}
+
+==Silesian==
+
+===Etymology===
+{{etymon|szl|id=family|:inh|zlw-opl:rodzina|tree=+|text=+}} {{surf|szl|rōd|-ina}}.
+
+===Pronunciation===
+{{szl-pr|a=LL-Q30319 (szl)-Vxern-#.wav}}
+
+===Noun===
+{{szl-noun|f|dim=rodzinka}}
+
+# [[family]] {{gl|parents and children together}}
+#: {{syn|szl|familijŏ|klan|rōd}}
+# [[property]] {{gl|object of ownership}}
+#: {{syn|szl|gospodarka|gospodarstwo|statek}}
+
+====Declension====
+{{szl-decl-noun|rodzina|rodziny|rodzinie|rodzinã|rodzinōm|rodzinie|rodzino|rodziny|rodzin|rodzinōm|rodziny|[[rodzinami]]/[[rodzinōma]]|rodzinach|rodziny}}
+
+===Further reading===
+* {{R:szl:silling}}
+
+{{C|szl|Collectives|Family}}

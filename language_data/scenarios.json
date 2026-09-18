@@ -1,0 +1,1102 @@
+{
+  "store": {
+    "title": "At the Store",
+    "icon": "🛒",
+    "situations": [
+      {
+        "situation": "You enter a store and want to ask where the bread is.",
+        "phrases": [
+          {
+            "text": "Przepraszam, gdzie jest chleb?",
+            "translation": "Excuse me, where is the bread?"
+          },
+          {
+            "text": "Gdzie znajdę mleko?",
+            "translation": "Where can I find milk?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask how much something costs.",
+        "phrases": [
+          {
+            "text": "Ile to kosztuje?",
+            "translation": "How much does this cost?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to pay by card.",
+        "phrases": [
+          {
+            "text": "Czy mogę zapłacić kartą?",
+            "translation": "Can I pay by card?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for something.",
+        "phrases": [
+          {
+            "text": "Poproszę ten.",
+            "translation": "I'll take this one."
+          }
+        ]
+      },
+      {
+        "situation": "You are leaving the store.",
+        "phrases": [
+          {
+            "text": "Dziękuję, do widzenia.",
+            "translation": "Thank you, goodbye."
+          }
+        ]
+      }
+    ]
+  },
+
+  "restaurant": {
+    "title": "At a Restaurant",
+    "icon": "🍽️",
+    "situations": [
+      {
+        "situation": "You want a table for one person.",
+        "phrases": [
+          {
+            "text": "Stolik dla jednej osoby, proszę.",
+            "translation": "A table for one person, please."
+          }
+        ]
+      },
+      {
+        "situation": "You want to order something.",
+        "phrases": [
+          {
+            "text": "Poproszę kawę.",
+            "translation": "A coffee, please."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for the menu.",
+        "phrases": [
+          {
+            "text": "Czy mogę prosić o menu?",
+            "translation": "Can I have the menu?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for the bill.",
+        "phrases": [
+          {
+            "text": "Poproszę rachunek.",
+            "translation": "The bill, please."
+          }
+        ]
+      }
+    ]
+  },
+
+  "cafe": {
+    "title": "At a Café",
+    "icon": "☕",
+    "situations": [
+      {
+        "situation": "You want to order coffee.",
+        "phrases": [
+          {
+            "text": "Poproszę kawę.",
+            "translation": "A coffee, please."
+          }
+        ]
+      },
+      {
+        "situation": "You want to order water.",
+        "phrases": [
+          {
+            "text": "Poproszę wodę.",
+            "translation": "Water, please."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask if you can pay by card.",
+        "phrases": [
+          {
+            "text": "Czy mogę zapłacić kartą?",
+            "translation": "Can I pay by card?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "train": {
+    "title": "At the Train Station",
+    "icon": "🚆",
+    "situations": [
+      {
+        "situation": "You want to ask where the train station is.",
+        "phrases": [
+          {
+            "text": "Gdzie jest dworzec?",
+            "translation": "Where is the train station?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask about a ticket.",
+        "phrases": [
+          {
+            "text": "Poproszę bilet do Krakowa.",
+            "translation": "A ticket to Kraków, please."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask when the train leaves.",
+        "phrases": [
+          {
+            "text": "Kiedy odjeżdża pociąg?",
+            "translation": "When does the train leave?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "doctor": {
+    "title": "At the Doctor / Pharmacy",
+    "icon": "🏥",
+    "situations": [
+      {
+        "situation": "You want to explain that you don't feel well.",
+        "phrases": [
+          {
+            "text": "Nie czuję się dobrze.",
+            "translation": "I don't feel well."
+          },
+          {
+            "text": "Boli mnie głowa.",
+            "translation": "My head hurts."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for medicine.",
+        "phrases": [
+          {
+            "text": "Potrzebuję lekarstwa.",
+            "translation": "I need medicine."
+          }
+        ]
+      },
+      {
+        "situation": "You are at a pharmacy.",
+        "phrases": [
+          {
+            "text": "Czy ma pan coś na ból głowy?",
+            "translation": "Do you have something for a headache?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask how to take the medicine.",
+        "phrases": [
+          {
+            "text": "Jak mam to brać?",
+            "translation": "How should I take this?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "hotel": {
+    "title": "At a Hotel",
+    "icon": "🏨",
+    "situations": [
+      {
+        "situation": "You want to check in.",
+        "phrases": [
+          {
+            "text": "Mam rezerwację.",
+            "translation": "I have a reservation."
+          },
+          {
+            "text": "Chciałbym się zameldować.",
+            "translation": "I would like to check in."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for your room.",
+        "phrases": [
+          {
+            "text": "Gdzie jest mój pokój?",
+            "translation": "Where is my room?"
+          }
+        ]
+      },
+      {
+        "situation": "There is a problem with your room.",
+        "phrases": [
+          {
+            "text": "Mam problem z pokojem.",
+            "translation": "I have a problem with the room."
+          },
+          {
+            "text": "Nie działa klimatyzacja.",
+            "translation": "The air conditioning doesn't work."
+          }
+        ]
+      }
+    ]
+  },
+
+  "transport": {
+    "title": "Public Transport",
+    "icon": "🚌",
+    "situations": [
+      {
+        "situation": "You want to ask which bus you need.",
+        "phrases": [
+          {
+            "text": "Który autobus jedzie do centrum?",
+            "translation": "Which bus goes to the city center?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask where the bus stop is.",
+        "phrases": [
+          {
+            "text": "Gdzie jest przystanek autobusowy?",
+            "translation": "Where is the bus stop?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask if the bus goes somewhere.",
+        "phrases": [
+          {
+            "text": "Czy ten autobus jedzie do centrum?",
+            "translation": "Does this bus go to the city center?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask when the bus arrives.",
+        "phrases": [
+          {
+            "text": "Kiedy przyjeżdża autobus?",
+            "translation": "When does the bus arrive?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "taxi": {
+    "title": "Taking a Taxi",
+    "icon": "🚕",
+    "situations": [
+      {
+        "situation": "You want to tell the driver where you are going.",
+        "phrases": [
+          {
+            "text": "Proszę mnie zawieźć do centrum.",
+            "translation": "Please take me to the city center."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask how long the journey will take.",
+        "phrases": [
+          {
+            "text": "Jak długo to potrwa?",
+            "translation": "How long will it take?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask the price.",
+        "phrases": [
+          {
+            "text": "Ile to będzie kosztować?",
+            "translation": "How much will it cost?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "apartment": {
+    "title": "Renting an Apartment",
+    "icon": "🏠",
+    "situations": [
+      {
+        "situation": "You want to ask if an apartment is available.",
+        "phrases": [
+          {
+            "text": "Czy mieszkanie jest jeszcze dostępne?",
+            "translation": "Is the apartment still available?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask about the rent.",
+        "phrases": [
+          {
+            "text": "Ile wynosi czynsz?",
+            "translation": "How much is the rent?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask about utilities.",
+        "phrases": [
+          {
+            "text": "Czy opłaty są wliczone?",
+            "translation": "Are the utilities included?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to arrange a viewing.",
+        "phrases": [
+          {
+            "text": "Czy mogę obejrzeć mieszkanie?",
+            "translation": "Can I see the apartment?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "work": {
+    "title": "At Work",
+    "icon": "💼",
+    "situations": [
+      {
+        "situation": "You arrive at work.",
+        "phrases": [
+          {
+            "text": "Dzień dobry.",
+            "translation": "Good morning."
+          }
+        ]
+      },
+      {
+        "situation": "You don't understand something.",
+        "phrases": [
+          {
+            "text": "Czy możesz to powtórzyć?",
+            "translation": "Can you repeat that?"
+          },
+          {
+            "text": "Nie rozumiem.",
+            "translation": "I don't understand."
+          }
+        ]
+      },
+      {
+        "situation": "You need help.",
+        "phrases": [
+          {
+            "text": "Czy możesz mi pomóc?",
+            "translation": "Can you help me?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to say you will do something later.",
+        "phrases": [
+          {
+            "text": "Zrobię to później.",
+            "translation": "I'll do it later."
+          }
+        ]
+      }
+    ]
+  },
+
+  "office": {
+    "title": "At a Government Office",
+    "icon": "🏛️",
+    "situations": [
+      {
+        "situation": "You arrive at the office.",
+        "phrases": [
+          {
+            "text": "Dzień dobry, potrzebuję pomocy.",
+            "translation": "Hello, I need help."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask where to go.",
+        "phrases": [
+          {
+            "text": "Gdzie mam iść?",
+            "translation": "Where should I go?"
+          }
+        ]
+      },
+      {
+        "situation": "You don't understand the procedure.",
+        "phrases": [
+          {
+            "text": "Czy może mi pan wyjaśnić?",
+            "translation": "Could you explain it to me?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask what documents are required.",
+        "phrases": [
+          {
+            "text": "Jakie dokumenty są potrzebne?",
+            "translation": "What documents are needed?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "post_office": {
+    "title": "At the Post Office",
+    "icon": "📦",
+    "situations": [
+      {
+        "situation": "You want to send a package.",
+        "phrases": [
+          {
+            "text": "Chcę wysłać paczkę.",
+            "translation": "I want to send a package."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask how much shipping costs.",
+        "phrases": [
+          {
+            "text": "Ile kosztuje wysyłka?",
+            "translation": "How much does shipping cost?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask when the package will arrive.",
+        "phrases": [
+          {
+            "text": "Kiedy paczka dotrze?",
+            "translation": "When will the package arrive?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "police": {
+    "title": "At the Police Station",
+    "icon": "👮",
+    "situations": [
+      {
+        "situation": "You need help.",
+        "phrases": [
+          {
+            "text": "Potrzebuję pomocy.",
+            "translation": "I need help."
+          }
+        ]
+      },
+      {
+        "situation": "You want to report something.",
+        "phrases": [
+          {
+            "text": "Chcę zgłosić problem.",
+            "translation": "I want to report a problem."
+          }
+        ]
+      },
+      {
+        "situation": "You don't understand Polish well.",
+        "phrases": [
+          {
+            "text": "Nie mówię dobrze po polsku.",
+            "translation": "I don't speak Polish well."
+          }
+        ]
+      }
+    ]
+  },
+
+  "meeting": {
+    "title": "Meeting Someone",
+    "icon": "🗣️",
+    "situations": [
+      {
+        "situation": "You meet someone for the first time.",
+        "phrases": [
+          {
+            "text": "Cześć, mam na imię Sif.",
+            "translation": "Hi, my name is Sif."
+          },
+          {
+            "text": "Miło cię poznać.",
+            "translation": "Nice to meet you."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask where someone is from.",
+        "phrases": [
+          {
+            "text": "Skąd jesteś?",
+            "translation": "Where are you from?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask what someone does.",
+        "phrases": [
+          {
+            "text": "Czym się zajmujesz?",
+            "translation": "What do you do?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "phone": {
+    "title": "Making a Phone Call",
+    "icon": "📞",
+    "situations": [
+      {
+        "situation": "You answer the phone.",
+        "phrases": [
+          {
+            "text": "Dzień dobry, słucham.",
+            "translation": "Hello, I'm listening."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask who is calling.",
+        "phrases": [
+          {
+            "text": "Kto mówi?",
+            "translation": "Who is calling?"
+          }
+        ]
+      },
+      {
+        "situation": "You didn't hear something.",
+        "phrases": [
+          {
+            "text": "Czy może pan powtórzyć?",
+            "translation": "Could you repeat that?"
+          }
+        ]
+      },
+      {
+        "situation": "The connection is bad.",
+        "phrases": [
+          {
+            "text": "Słabo pana słyszę.",
+            "translation": "I can't hear you well."
+          }
+        ]
+      }
+    ]
+  },
+
+  "small_talk": {
+    "title": "Small Talk",
+    "icon": "🗣️",
+    "situations": [
+      {
+        "situation": "You want to ask how someone is.",
+        "phrases": [
+          {
+            "text": "Jak się masz?",
+            "translation": "How are you?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to say that you're doing well.",
+        "phrases": [
+          {
+            "text": "Mam się dobrze, dziękuję.",
+            "translation": "I'm doing well, thank you."
+          }
+        ]
+      },
+      {
+        "situation": "You want to talk about the weather.",
+        "phrases": [
+          {
+            "text": "Ładna dzisiaj pogoda.",
+            "translation": "The weather is nice today."
+          }
+        ]
+      },
+      {
+        "situation": "You want to say goodbye.",
+        "phrases": [
+          {
+            "text": "Do zobaczenia.",
+            "translation": "See you."
+          }
+        ]
+      }
+    ]
+  },
+
+  "gym": {
+    "title": "At the Gym",
+    "icon": "🏋️",
+    "situations": [
+      {
+        "situation": "You arrive at the gym.",
+        "phrases": [
+          {
+            "text": "Cześć!",
+            "translation": "Hi!"
+          },
+          {
+            "text": "Idziesz dzisiaj na trening?",
+            "translation": "Are you working out today?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask if someone is using the equipment.",
+        "phrases": [
+          {
+            "text": "Czy używasz tego?",
+            "translation": "Are you using this?"
+          },
+          {
+            "text": "Ile serii ci zostało?",
+            "translation": "How many sets do you have left?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask if you can use the equipment.",
+        "phrases": [
+          {
+            "text": "Mogę po tobie?",
+            "translation": "Can I use it after you?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to encourage your friend.",
+        "phrases": [
+          {
+            "text": "Dawaj, jeszcze jedno!",
+            "translation": "Come on, one more!"
+          },
+          {
+            "text": "Dasz radę!",
+            "translation": "You can do it!"
+          }
+        ]
+      },
+      {
+        "situation": "You finish your workout.",
+        "phrases": [
+          {
+            "text": "Dobry trening!",
+            "translation": "Good workout!"
+          }
+        ]
+      }
+    ]
+  },
+
+  "friends": {
+    "title": "Hanging Out With Friends",
+    "icon": "👥",
+    "situations": [
+      {
+        "situation": "You meet your friends.",
+        "phrases": [
+          {
+            "text": "Co tam?",
+            "translation": "What's up?"
+          },
+          {
+            "text": "Jak leci?",
+            "translation": "How's it going?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to make plans.",
+        "phrases": [
+          {
+            "text": "Masz dzisiaj czas?",
+            "translation": "Are you free today?"
+          },
+          {
+            "text": "Co robimy wieczorem?",
+            "translation": "What are we doing tonight?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to invite your friend somewhere.",
+        "phrases": [
+          {
+            "text": "Chodźmy coś zjeść.",
+            "translation": "Let's go get something to eat."
+          },
+          {
+            "text": "Może pójdziemy na kawę?",
+            "translation": "Maybe we can go for coffee?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to leave.",
+        "phrases": [
+          {
+            "text": "Dobra, będę leciał.",
+            "translation": "Alright, I should get going."
+          },
+          {
+            "text": "Do zobaczenia!",
+            "translation": "See you!"
+          }
+        ]
+      }
+    ]
+  },
+
+  "joking": {
+    "title": "Joking With Friends",
+    "icon": "😂",
+    "situations": [
+      {
+        "situation": "Your friend says something surprising.",
+        "phrases": [
+          {
+            "text": "Żartujesz!",
+            "translation": "You're joking!"
+          },
+          {
+            "text": "Serio?",
+            "translation": "Seriously?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to tell your friend you're joking.",
+        "phrases": [
+          {
+            "text": "Żartuję!",
+            "translation": "I'm joking!"
+          },
+          {
+            "text": "Tylko żartuję.",
+            "translation": "I'm just joking."
+          }
+        ]
+      },
+      {
+        "situation": "Your friend makes you laugh.",
+        "phrases": [
+          {
+            "text": "Ale jesteś śmieszny!",
+            "translation": "You're so funny!"
+          },
+          {
+            "text": "Ale się uśmiałem!",
+            "translation": "That was really funny!"
+          }
+        ]
+      },
+      {
+        "situation": "You don't believe your friend.",
+        "phrases": [
+          {
+            "text": "Nie wierzę ci!",
+            "translation": "I don't believe you!"
+          },
+          {
+            "text": "No nie gadaj!",
+            "translation": "No way! / You're kidding!"
+          }
+        ]
+      }
+    ]
+  },
+
+  "walking": {
+    "title": "Walking Outside",
+    "icon": "🚶",
+    "situations": [
+      {
+        "situation": "You meet someone while walking.",
+        "phrases": [
+          {
+            "text": "Cześć, co słychać?",
+            "translation": "Hi, how are you?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask for directions.",
+        "phrases": [
+          {
+            "text": "Przepraszam, gdzie jest centrum?",
+            "translation": "Excuse me, where is the city center?"
+          },
+          {
+            "text": "Jak dojść do dworca?",
+            "translation": "How do I get to the train station?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask someone if they know a place.",
+        "phrases": [
+          {
+            "text": "Wie pan, gdzie jest dobra restauracja?",
+            "translation": "Do you know where there is a good restaurant?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to talk about the weather.",
+        "phrases": [
+          {
+            "text": "Ale dzisiaj zimno!",
+            "translation": "It's so cold today!"
+          },
+          {
+            "text": "Ale piękna pogoda!",
+            "translation": "What beautiful weather!"
+          }
+        ]
+      }
+    ]
+  },
+
+  "new_people": {
+    "title": "Meeting New People",
+    "icon": "🤝",
+    "situations": [
+      {
+        "situation": "You introduce yourself.",
+        "phrases": [
+          {
+            "text": "Cześć, jestem Sif.",
+            "translation": "Hi, I'm Sif."
+          },
+          {
+            "text": "Miło cię poznać.",
+            "translation": "Nice to meet you."
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask someone's name.",
+        "phrases": [
+          {
+            "text": "Jak masz na imię?",
+            "translation": "What's your name?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask where someone is from.",
+        "phrases": [
+          {
+            "text": "Skąd jesteś?",
+            "translation": "Where are you from?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask what someone does.",
+        "phrases": [
+          {
+            "text": "Czym się zajmujesz?",
+            "translation": "What do you do?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to keep the conversation going.",
+        "phrases": [
+          {
+            "text": "A ty?",
+            "translation": "And you?"
+          },
+          {
+            "text": "Naprawdę? Opowiedz coś więcej.",
+            "translation": "Really? Tell me more."
+          }
+        ]
+      }
+    ]
+  },
+
+  "party": {
+    "title": "At a Party",
+    "icon": "🎉",
+    "situations": [
+      {
+        "situation": "You arrive at a party.",
+        "phrases": [
+          {
+            "text": "Cześć wszystkim!",
+            "translation": "Hi everyone!"
+          }
+        ]
+      },
+      {
+        "situation": "You meet someone new.",
+        "phrases": [
+          {
+            "text": "Znasz tutaj dużo osób?",
+            "translation": "Do you know many people here?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to ask what someone is drinking.",
+        "phrases": [
+          {
+            "text": "Co pijesz?",
+            "translation": "What are you drinking?"
+          }
+        ]
+      },
+      {
+        "situation": "You want to suggest doing something.",
+        "phrases": [
+          {
+            "text": "Idziemy potańczyć?",
+            "translation": "Shall we go dancing?"
+          }
+        ]
+      }
+    ]
+  },
+
+  "gaming": {
+    "title": "Gaming With Friends",
+    "icon": "🎮",
+    "situations": [
+      {
+        "situation": "You ask your friend to play.",
+        "phrases": [
+          {
+            "text": "Gramy?",
+            "translation": "Shall we play?"
+          }
+        ]
+      },
+      {
+        "situation": "You want your friend to wait.",
+        "phrases": [
+          {
+            "text": "Czekaj na mnie!",
+            "translation": "Wait for me!"
+          }
+        ]
+      },
+      {
+        "situation": "You are losing.",
+        "phrases": [
+          {
+            "text": "Nie mam szans!",
+            "translation": "I don't stand a chance!"
+          }
+        ]
+      },
+      {
+        "situation": "You win.",
+        "phrases": [
+          {
+            "text": "Wygrałem!",
+            "translation": "I won!"
+          },
+          {
+            "text": "Mówiłem, że wygram!",
+            "translation": "I told you I'd win!"
+          }
+        ]
+      }
+    ]
+  },
+
+  "casual_day": {
+    "title": "Everyday Casual Conversation",
+    "icon": "🗣️",
+    "situations": [
+      {
+        "situation": "Your friend asks what you're doing.",
+        "phrases": [
+          {
+            "text": "Nic specjalnego.",
+            "translation": "Nothing special."
+          },
+          {
+            "text": "Właśnie wracam do domu.",
+            "translation": "I'm just going home."
+          }
+        ]
+      },
+      {
+        "situation": "You are tired.",
+        "phrases": [
+          {
+            "text": "Jestem zmęczony.",
+            "translation": "I'm tired."
+          }
+        ]
+      },
+      {
+        "situation": "You are hungry.",
+        "phrases": [
+          {
+            "text": "Jestem głodny.",
+            "translation": "I'm hungry."
+          }
+        ]
+      },
+      {
+        "situation": "You agree with your friend.",
+        "phrases": [
+          {
+            "text": "Dokładnie!",
+            "translation": "Exactly!"
+          },
+          {
+            "text": "Masz rację.",
+            "translation": "You're right."
+          }
+        ]
+      },
+      {
+        "situation": "You don't agree.",
+        "phrases": [
+          {
+            "text": "Nie sądzę.",
+            "translation": "I don't think so."
+          }
+        ]
+      }
+    ]
+  }
+}

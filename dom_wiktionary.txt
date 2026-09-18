@@ -1,0 +1,1078 @@
+{{also|Appendix:Variations of "dom"}}
+{{minitoc}}
+==Translingual==
+
+===Symbol===
+{{mul-symbol}}
+
+# {{lb|mul|mathematics}} [[domain]]
+
+==English==
+
+===Pronunciation===
+* {{IPA|en|/dɒm/|a=RP}}
+* {{IPA|en|/dɑm/|/dɔm/|a=GA}}
+* {{IPA|en|/dɔm/|a=AU}}
+* {{audio|en|en-au-dom.ogg|a=AU}}
+* {{rhymes|en|ɒm|s=1}}
+* {{hmp|en|Dom|;|domme|Domme|dom/me|Dom/me}}
+
+===Etymology 1===
+{{etymid|en|from domination-referent origins}}
+{{root|en|ine-pro|*dem-}}
+{{clipping|en|dominance,dominant,dominate,domination}}.
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|BDSM}} A [[dominant]] in [[sadomasochistic]] [[sexual]] [[practice]]s.
+#: {{alti|en|Dom}}
+#: {{hypo|en|hyperdom}}
+#: {{cot|en|domme|dom/me|;|sub|switch}}
+# {{lb|en|BDSM}} {{cap|domination}}.
+#: {{hypo|en|hyperdom}}
+#: {{cot|en|sub|switch}}
+
+=====Derived terms=====
+{{col|en
+|-dom
+|daddy dom
+|dom drop
+|domme
+|dom/me
+|dommy
+|Domward
+|hyperdom
+}}
+
+=====Translations=====
+{{trans-top|person who dominates in BDSM practices}}
+* French: {{t+|fr|dominateur|m}}, {{t+|fr|dominatrice|f}}, {{t+|fr|domina|f}}
+* Polish: {{t+|pl|dominator|m}}, {{t+|pl|domina|f}}
+* Portuguese: {{t+|pt|dominante|mfbysense}}
+* Russian: {{t+|ru|господин|m}}, {{t+|ru|госпожа|f}}
+* Spanish: {{t+|es|dominante|mfbysense}}
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|slang|BDSM|or|online gaming}} To [[dominate]].
+#: {{hypo|en|hyperdom}}
+#: {{cot|en|sub|switch}}
+#* {{quote-journal|en|year=2006|journal=Bitch: feminist response to pop culture|issue=31-34
+|passage=Nola is actually "Nurse Nola," a dominatrix who specializes in medical role playing. {{...}} "After that," she continues, "I started '''domming''', which I did for a long time, but have never liked much."}}
+
+===Etymology 2===
+{{etymid|en|from domine-or-don-referent origins}}
+{{bor+|en|pt|dom}}. {{doublet|en|domine|dominie|dominus|don}}.
+
+====Noun====
+{{en-noun|s|dons}}
+
+# {{n-g|A title formerly borne by member of the high nobility of [[Portugal]] and [[Brazil]].}}
+# {{n-g|A [[title]] anciently given to the [[pope]], and later to other church dignitaries and some [[monastic]] [[order]]s.}}
+
+=====Related terms=====
+* {{l|en|donzel}}, {{l|en|Dom João}}
+
+===See also===
+* {{l|en|dom palm}} {{q|etymologically unrelated}}
+* {{l|en|non-dom}} {{q|etymologically unrelated}}
+
+===References===
+* [https://ahdictionary.com/word/search.html?q=dom "dom"] in ''The American Heritage Dictionary of the English Language'', Fifth Edition.
+
+===Anagrams===
+* {{anagrams|en|a=dmo|MOD|MoD|ODM|mod|mod.}}
+
+{{cln|en|male equivalent nouns}}
+
+==Abinomn==
+
+===Noun===
+{{head|bsa|noun}}
+
+# [[gecko]]
+
+==Achang==
+
+===Pronunciation===
+* {{acn-IPA|lh=|lc=|lx=|xd=}}
+
+===Noun===
+{{head|acn|noun}}
+
+# [[trap]]
+
+===Further reading===
+* {{R:acn:Lexicon|27}}
+
+==Angguruk Yali==
+
+===Noun===
+{{head|yli|noun}}
+
+# [[mountain]]
+
+===References===
+* Christiaan Fahner, ''[https://web.archive.org/web/20190403134050/https://www.papuaerfgoed.org/files/fahner_1979_morphology.pdf The morphology of Yali and Dani]'' (1979), page 156
+
+==Bole==
+
+===Alternative forms===
+* {{alt|bol|domi|alt=dòmi||Bara}}
+
+===Etymology===
+From {{der|bol|afa-pro|*dam-|t=blood}}. Cognate with {{cog|nbh|dom|alt=dòm}}, {{cog|mew|dom|alt=dòm}} and {{cog|kai|donu|alt=dṑnù}}. Compare with {{cog|bde|tədəm|alt=tədə́m}}.
+
+===Pronunciation===
+* {{IPA|bol|/dòm/}}
+* {{hyph|bol|dom}}
+
+===Noun===
+{{head|bol|noun|head=dòm}}
+
+# [[blood]]
+
+===References===
+* {{R:bol:Gimba2009|page=39}}
+
+{{C|bol|Anatomy|Bodily fluids}}
+
+==Chinese==
+
+===Etymology===
+{{yue-etym-clip-en|con'''dom'''}} {{doublet|yue|condom}}.
+
+===Pronunciation===
+{{zh-pron
+|c=dam4
+|cat=n
+}}
+
+===Noun===
+{{head|zh|noun}}
+
+# {{lb|zh|Hong Kong Cantonese}} [[condom]]
+
+====Synonyms====
+{{zh-dial|避孕套}}
+
+====Derived terms====
+{{col3|yue|dom dom}}
+
+==Danish==
+
+===Etymology 1===
+{{root|da|ine-pro|*dʰeh₁-}}
+From {{der|da|non|dómr||judgement}}, from {{der|da|gem-pro|*dōmaz}}, from {{der|da|ine-pro|*dʰóh₁mos}}.
+
+====Pronunciation====
+* {{IPA|da|[ˈd̥ʌmˀ]}}
+* {{rhymes|da|ɒm|s=1}}
+
+====Noun====
+{{da-noun|dc=1|en|e}}
+
+# [[sentence]]
+# [[conviction]]
+# [[judgement]]
+# [[verdict]]
+# {{lb|da|logic}} [[proposition]]
+# [[decision]]
+# [[damnation]], [[doom]]
+
+=====Declension=====
+{{da-decl|dc=1|en|e}}
+
+=====Related terms=====
+* {{l|da|dømme}}
+
+=====References=====
+* {{R:DDO|dom,1}}
+
+===Etymology 2===
+Via {{der|da|de|Dom}} and {{der|da|fr|dôme}} from {{der|da|la|domus}} {{m|la|Dei}}.
+
+====Pronunciation====
+* {{IPA|da|[ˈd̥oˀm]|[ˈd̥oːm]}}
+
+====Noun====
+{{da-noun|en|er}}
+
+# a [[cathedral]]
+#: {{synonyms|da|domkirke|katedral}}
+
+=====Declension=====
+{{da-decl|en|er}}
+
+=====Derived terms=====
+* {{l|da|domkirke}}
+* {{l|da|domprovst}}
+* {{l|da|domsogn}}
+
+=====References=====
+* {{R:DDO|dom,2}}
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|nl|/dɔm/}}
+* {{audio|nl|Nl-dom.ogg}}
+* {{hyphenation|nl|dom}}
+* {{rhymes|nl|ɔm|s=1}}
+
+===Etymology 1===
+From {{inh|nl|dum|dom}}, {{m|dum|domp}}, from {{inh|nl|odt|dump}}, from {{inh|nl|gmw-pro|*dumb}}, from {{inh|nl|gem-pro|*dumbaz}}.
+
+====Adjective====
+{{nl-adj|dommer}}
+
+# [[dumb]], [[brainless]]
+#: {{syn|nl|stom|achterlijk|hersenloos}}
+# [[stupid]], [[silly]]
+#: {{syn|nl|stom|dwaas|gek}}
+# [[accidental]], [[thoughtless]]
+#: {{syn|nl|stomweg|domweg}}
+
+=====Usage notes=====
+* Dutch ''dom'' is never used with the meaning “mute”; the word for that is {{m|nl|stom}}.
+
+=====Declension=====
+{{nl-decl-adj|domme}}
+
+=====Derived terms=====
+{{col|nl
+|allerdomst
+|dom blondje
+|dombo
+|domheid
+|dommerd
+|dommig
+|domkop
+|dommerik
+|domoor
+|domrechts
+|domweg
+|oerdom
+|oliedom
+|te dom om te poepen
+|van den domme houden
+|verdommen
+}}
+
+=====Descendants=====
+* {{desc|af|dom}}
+* {{desc|brc|dum}}
+* {{desc|dcr|dom|dum}}
+* {{desc|srn|don|bor=1}} {{see desc}}
+
+===Etymology 2===
+{{root|nl|ine-pro|*dem-}}
+16th-century alteration (after {{der|nl|frm|dome}}) of {{inh|nl|dum|doem}}, from {{inh|nl|odt|doem}}, from {{inh|nl|gmw-pro|*dōm}}, from {{der|nl|la|domus||house, building}}, from {{der|nl|ine-pro|*dṓm}}. Compare {{cog|de|Dom}} (older {{m|de|Thum}}).
+
+====Noun====
+{{nl-noun|m|-en,domkerken|+,-kerkje}}
+
+# a [[duomo]], either an [[episcopal]] [[cathedral]] or another major [[church]] (often a [[basilica]]) which has been granted this high rank
+# a [[dome]], cupola
+
+=====Derived terms=====
+{{col|nl
+|domdeken
+|domheer
+|domkapittel
+|domkerk
+|domklok
+|domproost
+|domschool
+|Domstad
+|domtoren
+}}
+
+=====Descendants=====
+* {{desc|id|bor=1|dom}}
+
+===Etymology 3===
+{{root|nl|ine-pro|*dem-}}
+From {{der|nl|la|dominus||master}}, from {{der|nl|la|domus||house, building}}, from {{der|nl|ine-pro|*dṓm}}, from root {{der|nl|ine-pro|*dem-||to build}}.
+
+====Noun====
+{{nl-noun|m|-en|+}}
+
+# an [[ecclesiastical]] form of [[address]], notably for a [[Benedictine]] [[priest]]
+# a [[nobleman]] or [[clergyman]] in certain Catholic countries, notably Portugal and its colonies
+
+=====See also=====
+* {{l|nl|don}}
+
+===Etymology 4===
+
+====Noun====
+{{nl-noun|m|-en|+}}
+
+# {{archaic form of|nl|duim|t=thumb, pivot}}
+
+=====Derived terms=====
+{{col|nl
+|dommekracht
+}}
+
+===References===
+* {{R:Koenen}}
+
+==French==
+
+===Etymology===
+Borrowing from {{bor|fr|it|don}} or older {{m|it|dom}}, from {{der|fr|la|dominus||master}}. Cognate with {{cog|en|don}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-dom.wav|a=<<France>> (<<Lyon>>)}}
+* {{homophones|fr|don|dont}}
+
+===Noun===
+{{fr-noun|m}}
+
+# {{n-g|title of respect given to certain monks and other religious figures}}
+
+===Further reading===
+* {{R:fr:TLFi}}
+
+==Gothic==
+
+===Romanization===
+{{got-rom|head=dōm}}
+
+# {{romanization of|got|𐌳𐍉𐌼}}
+
+==Hlai==
+{{cardinalbox |lic| 5 | 6 | 7 | ba | tou }}
+
+===Etymology===
+From {{inh|lic|qfa-lic-pro|*hnom||six}}, from Pre-Hlai {{m|und|*nɔm}}<!--{{inh|lic|qfa-lic-pre|*nɔm}}--> (Norquest, 2015).
+
+===Pronunciation===
+{{lic-pron}}
+
+===Numeral===
+{{head|lic|numeral}}
+
+# [[six]]
+
+==Indonesian==
+
+===Pronunciation===
+* {{IPA|id|/ˈdɔm/}}
+* {{hyphenation|id|dom}}
+
+===Etymology 1===
+From {{bor|id|jv|ꦢꦺꦴꦩ꧀|t=needle}}, from {{der|id|kaw|dom|t=needle}}, from {{der|id|poz-pro|*zaʀum}}, from {{der|id|map-pro|*zaʀum}}. {{doublet|id|jarum}}.
+
+====Noun====
+{{id-noun}}
+
+# [[needle]]
+
+=====Derived terms=====
+{{col|id
+|pedoman
+}}
+
+===Etymology 2===
+{{root|id|ine-pro|*dem-}}
+From {{bor|id|nl|dom}}, from {{der|id|dum|doem}}, from {{der|id|la|domus||house, building}}, from {{der|id|ine-pro|*dṓm}}, from root {{der|id|ine-pro|*dem-||to build}}. Cf. {{cog|odt|duom}}.
+
+====Noun====
+{{id-noun}}
+
+# [[episcopal]] [[cathedral]]
+#: {{syn|id|katedral}}
+# another major [[church]] (often a [[basilica]]) which has been granted this high rank
+
+===Etymology 3===
+Various apocopic forms
+
+====Noun====
+{{id-noun}}
+
+# {{apocopic form of|id|domino}}
+# {{apocopic form of|id|domisili}}
+
+===Further reading===
+* {{R:KBBI Daring}}
+
+==Irish==
+
+===Etymology 1===
+From {{inh|ga|sga|dom|id=to me}}.
+
+====Alternative forms====
+* {{alter|ga|dam|damh|dhom|domh}}
+
+====Pronunciation====
+* {{IPA|ga|/d̪ˠomˠ/|/d̪ˠumˠ/|/d̪ˠəmˠ/|q3=unstressed}}
+* {{a|ga|Ulster}} {{see|ga|domh|noast=1}}
+
+====Pronoun====
+{{ga-prpr|domsa}}
+
+# {{inflection of|ga|do||1|s|gloss=to/for me}}
+
+===Etymology 2===
+From {{der|ga|sga|dom|id=to my}}.
+
+====Alternative forms====
+* {{alt|ga|am|dom'<alt:dom’>}}
+
+====Pronunciation====
+* {{IPA|ga|/d̪ˠomˠ/}}
+
+====Contraction====
+{{head|ga|contraction|triggers {{ga-mut-link|l}}}}
+
+# {{lb|ga|Munster}} {{contraction of|ga|do|mo|lit=to my, for my}}
+#: {{ux|ga|Thugas an féirín '''dom''' dheirfiúr.|I gave the present '''to my''' sister.}}
+
+=====Related terms=====
+{{ga-preposition contractions}}
+
+==Italian==
+
+===Noun===
+{{it-noun|m|#}}
+
+# [[dominant]], [[top]] (dominating BDSM partner)
+
+====See also====
+* {{l|it|sub}}
+
+==Javanese==
+
+===Romanization===
+{{jv-rom}}
+
+# {{romanization of|jv|ꦢꦺꦴꦩ꧀}}
+
+==Lower Sorbian==
+
+===Etymology===
+{{root|dsb|ine-pro|*dem-}}
+From {{inh|dsb|sla-pro|*domъ}}, from {{inh|dsb|ine-pro|*dṓm}}.
+
+===Pronunciation===
+* {{IPA|dsb|/dɔm/}}
+
+===Noun===
+{{dsb-noun|m-in|dim=domk}}
+
+# [[house]]
+
+====Declension====
+{{dsb-decl-noun-17|dom}}
+
+====Derived terms====
+* {{l|dsb|domacnosć}}
+
+===Further reading===
+* {{R:dsb:Muka}}
+* {{R:dsb:Starosta}}
+
+{{topics|dsb|Architecture|Housing}}
+
+==Middle Dutch==
+
+===Alternative forms===
+* {{alt|dum|dumb|domb|dum}}
+
+===Etymology===
+From {{inh|dum|odt|dumb}}, from {{inh|dum|gem-pro|*dumbaz}}.
+
+===Adjective===
+{{dum-adj}}
+
+# [[dumb]], [[unwise]], [[stupid]]
+
+====Inflection====
+{{dum-infl-adj|domm}}
+
+====Descendants====
+* {{desctree|nl|dom}}
+* {{desc|li|dómb}}
+
+===Further reading===
+* {{R:VMNW|ID3779|domb}}
+* {{R:MNW|07004|domp}}
+
+==Middle English==
+
+===Adjective===
+{{head|enm|adjective|var=1}}
+
+# {{alt form|enm|dumb}}
+
+==Norwegian Bokmål==
+
+===Etymology 1===
+{{root|nb|ine-pro|*dʰeh₁-}}
+From {{der|nb|non|dómr||judgement}}, from {{der|nb|gem-pro|*dōmaz}}, from {{der|nb|ine-pro|*dʰóh₁mos}}.
+
+====Noun====
+{{nb-noun-m1|domm|domm}}
+
+# [[judgement]], [[sentence]]
+
+=====Derived terms=====
+* {{l|nb|dødsdom}}
+* {{l|nb|rettsdom}}
+
+=====Related terms=====
+* {{l|nb|dømme}}
+
+===Etymology 2===
+Ultimately from {{der|nb|la|[[domus]] [[Dei]]}}.
+
+====Noun====
+{{nb-noun-m1}}
+
+# a [[cathedral]]
+
+=====Synonyms=====
+* {{l|nb|domkirke}}
+* {{l|nb|katedral}}
+
+===References===
+* {{R:nb:OB}}
+
+==Norwegian Nynorsk==
+
+===Etymology 1===
+From {{der|nn|non|dómr||judgement}}.
+
+====Noun====
+{{nn-noun-m1|domm|domm}}
+
+# [[judgement]], [[sentence]]
+
+=====Derived terms=====
+* {{l|nn|dødsdom}}
+* {{l|nn|rettsdom}}
+
+=====Related terms=====
+* {{l|nn|døma}}, {{l|nn|dømme}}
+
+===Etymology 2===
+Ultimately from {{der|nn|la|domus}} {{m|la|Dei}}.
+
+====Noun====
+{{nn-noun-m1}}
+
+# a [[cathedral]]
+
+=====Synonyms=====
+* {{l|nn|domkyrkje}}
+* {{l|nn|katedral}}
+
+=====Derived terms=====
+* {{l|nn|Nidarosdomen}}
+* {{l|nn|Slidredomen}}
+
+===References===
+* {{R:nn:OB}}
+
+==Old English==
+
+===Alternative forms===
+* {{alt|ang|ᛞᚩᛗ||{{w|Franks Casket}}}}
+
+===Pronunciation===
+* {{ang-IPA|dōm}}
+* {{rhymes|ang|oːm|s=1}}
+
+===Etymology 1===
+{{root|ang|ine-pro|*dʰeh₁-}}
+{{dercat|ang|gem-pro|ine-pro}}
+From {{inh|ang|gmw-pro|*dōm}}.
+
+Cognate with {{cog|ofs|dōm}}, {{cog|osx|dōm}}, {{cog|goh|tuom}}, {{cog|non|dómr}}, {{cog|got|𐌳𐍉𐌼𐍃}}. The Germanic source was from a stem verb originally meaning ‘to place, to set’ (a sense-development also found in {{noncog|la|statūtum}}, {{noncog|grc|θέμις}}).
+
+====Noun====
+{{ang-noun|head=dōm|m}}
+
+# [[judgment]]
+#* '''late 10th century''', [[w:Ælfric of Eynsham|Ælfric]], ''[https://archive.org/details/aelfricslivesof01aelf/page/430/mode/2up?view=theater Lives of Saints]''
+#*: {{quote|ang|''Ne sċeall nān godes þeġn for sċeattum riht dēman, ac healdan þone '''dōm''' ġif godes man sȳ...''|Nor shall one of God's servants decide a law for wealth, but maintain the '''judgement''' if he is a man of God...}}
+# [[sentence]]
+# [[law]], [[statute]]
+#* [https://books.google.com/books?id=_b1czbLGvqYC&pg=PA18#v=onepage&q&f=false Laws] of {{w|Hlothhere of Kent|Hlothhere}} and {{w|Eadric of Kent|Eadric}}
+#*: {{quote|ang|''Þis syndon þā '''dōmas''' ðe Hloþhære ⁊ Ēadrīc, Cantwara cyningas, asetton. Hloþhære ⁊ Ēadrīc, Cantwara cyningas, ēcton þā ǣ, þā ðe heora aldoras ǣr ġeworhten, ðyssum '''dōmum''' þe hȳr efter sæġeþ.''|These are the '''laws''' that Hlothhere and Eadric, kings of Kent, laid down. Hlothhere and Eadric, kings of Kent, added these '''laws''' listed hereafter to the laws their ancestors created.}}
+#: {{syn|ang|ǣ}}
+# [[jurisdiction]]
+# [[discernment]], [[discretion]]
+# [[sway]], [[majesty]], [[power]], [[might]]
+#* {{quote-book|ang|text=''Ac iċ mīþan sċeal monna ġehwylċum dēgolfulne '''dōm''' dȳran cræftes, sīðfæt mīnne. Saga hwæt iċ hātte.''|t=But I should hide from any of men a secret '''might''' of worthy craft, a road of mine. Say what I am.|title=Exeter Book Riddle 83|year=c. 980}}
+# [[fame]], [[repute]]
+#* {{quote-book|ang|text=''Dagas sind ġewitene, ealle onmedlan eorþan rīċes; nǣron nū cyningas ne cāseras ne goldġiefan swylċe iū wǣron, þonne hī mǣst mid him mǣrþa ġefremedon ond on dryhtlīċestum '''dōme''' lifdon.''|t=The days are gone, whole sheens of Earth’s kingdom; kings were not now, nor emperors, nor gold-givers as once were when they fulfilled most of honors amongst 'emselves and lived in the lordliest''' glory'''.|title=The Seafarer|year=10th century}}
+
+=====Declension=====
+{{ang-decl-noun-a-m|dōm}}
+
+=====Related terms=====
+* {{l|ang|dēman}}
+* {{l|ang|-dōm}}
+
+=====Descendants=====
+* {{desctree|enm|doom}}
+
+===Etymology 2===
+From {{inh|ang|gem-pro|*dōmi}}, first-person singular of {{m|gem-pro|*dōną||to do}}.
+
+====Verb====
+{{head|ang|verb form|head=dōm}}
+
+# {{inflection of|ang|doan||1|s|pres|indc}}
+
+{{topics|ang|Law}}
+
+==Old French==
+
+===Etymology===
+From {{der|fro|la-vul|de}} + {{m|la|unde}}.
+
+===Pronoun===
+{{head|fro|pronoun}}
+
+# [[of]] [[whom]]; of [[which]]
+
+====Descendants====
+* {{desc|fr|dont}}
+
+==Old Irish==
+
+===Etymology 1===
+{{etymid|sga|to me}}
+{{univerbation|sga|do|t1=to, for|mé|t2=me}}.
+
+====Pronunciation====
+* {{sga-IPA}}
+
+====Pronoun====
+{{head|sga|prepositional pronoun}}
+
+# {{inflection of|sga|do||1|s}}: [[to]]/[[for]] [[me]]
+
+=====Alternative forms=====
+* {{alter|sga|dam}}
+
+=====Descendants=====
+* {{desc|ga|dom|domh}}
+* {{desc|gv|dou}}
+* {{desc|gd|dhomh|domh}}
+
+===Etymology 2===
+{{etymid|sga|to my}}
+{{univerbation|sga|do|t1=to, for|mo|t2=my}}.
+
+====Pronunciation====
+* {{sga-IPA|domm}}
+
+====Determiner====
+{{head|sga|determiner form|cat2=possessive determiners|triggers lenition}}
+
+# to/for my
+
+===Etymology 3===
+{{etymid|sga|home}}{{root|sga|ine-pro|*dem-}}
+Probably from {{der|sga|la|domus}}, but at any rate ultimately from {{der|sga|ine-pro|*dṓm}}, from the root {{m|ine-pro|*dem-||to build}}.
+
+====Pronunciation====
+* {{sga-IPA}}
+
+====Noun====
+{{sga-noun|?}}
+
+# [[home]]
+# [[house]]
+#: {{syn|sga|atrab|lann|tech|tegdais|treb}}
+
+=====Inflection=====
+{{sga-decl-u|g=?|dat_sg=doim}}
+
+=====Derived terms=====
+{{col|sga
+|dom liacc<t:stone house, stone church>
+|damdabach<t:tub>
+}}
+
+=====Descendants=====
+* {{desc|gd|domh}}
+
+{{C|sga|Buildings}}
+
+==Old Polish==
+
+===Etymology===
+{{etymon|zlw-opl|id=house|:inh|sla-pro:*dȍmъ<id:house>|tree=1|text=+}} {{etydate|14th century}}.
+
+===Pronunciation===
+* {{zlw-opl-IPA|do?m}}
+
+===Noun===
+{{zlw-opl-noun|m-in}}
+
+# {{lb|zlw-opl|attested in|Greater Poland|Lesser Poland}} [[house]] {{gl|building for living}}
+#* {{RQ:zlw-opl:Leksz|II|1773|1395|Orandowal *iszm do gich '''domv''', by penødze brali, a ony gich nechczeli wzącz|Orędował j[e]śm do jich '''domu''', by pieniądze brali, a oni jich nie chcieli wziąć|-}}
+#* {{RQ:zlw-opl:Fl|83, 3|Wrobl nalazl sobe '''dom''' a gardliczya gnazdo, gdze poloszi *kurzota swoia (passer invenit sibi domum et turtur nidum sibi, ubi ponat pullos suos)|Wrobl nalazł sobie '''dom''' a gardlica gniazdo, gdzie położy kurzęta swoja (passer invenit sibi domum et turtur ni|-}}
+# {{def-uncertain|zlw-opl|nohypothesis=1}}
+#* {{RQ:zlw-opl:R|XVI|350|Fifteenth century|Pomyslony '''dom''' architipica|Pomyślony '''dom''' architipica|-}}
+# {{lb|zlw-opl|religion|usually in collocation with another word|attested in|Lesser poland}} [[temple]]
+#* {{RQ:zlw-opl:Fl|25, 8|Gospodne, milowal iesm crasø '''domu''' twego (dilexi decorem domus tuae)|Gospodnie, miłował jeśm krasę '''domu''' twego (dilexi decorem domus tuae)|-}}
+#* {{RQ:zlw-opl:Fl|22, 9|Abich przebiwal w '''domu''' boszem na dluge dny (ut inhabitem in domo domini in longitudinem dierum)|Abych przebywał w '''domu''' bożem na długie dni (ut inhabitem in domo domini in longitudinem dierum)|-}}
+#* {{RQ:zlw-opl:Fl|121, 9|Ieruszalem!... Prze '''dom''' gospodna, boga naszego (propter domum domini dei nostri), szvkal gesm dobra tobe|Jerusalem!... Prze '''dom''' Gospodna, Boga naszego (propter domum domini Dei nostri) szukał jeśm dobra tobie|-}}
+#* {{RQ:zlw-opl:Fl|28, 2|Prosicze gospodna w '''domu''' swøtem iego (in atrio sancto eius)|Prosicie Gospodna w '''domu''' świętem jego (in atrio sancto eius)|-}}
+#* {{RQ:zlw-opl:Fl|134, 2|Ymø panowo ch[w]alcze slughy panowy, gysz stoycze w '''domw''' panowem w *stremech domv boga naszego (qui statis in domo domini, in atriis domus dei nostri)|Imię panowo, ch[w]alcie, sługi Pana[wi], jiż stoicie w '''domu''' panowem, w strzemiech domu Boga naszego (qui statis in domo domini, in atriis domus Dei nostri)|-}}
+#* {{RQ:zlw-opl:BZ|I Esdr|7, 16|Szrzebro y zloto, ... kaplani, gisz dobrowolnye offyerowaly '''domv''' boga swego (domui dei sui), gesz gest w Ierusalem, swyebodnye wezmy|Śrzebro i złoto, ... kapłany, jiż dobrowolnie oﬁerowali '''domu''' Boga swego (domui Dei sui), jeż jest w Jerusalem, świebodnie weźmi|-}}
+#* {{RQ:zlw-opl:Naw|82|Yakom ya przed czya szmyala wnydz w thwoy dom modlythwy|Jakom ja przed cię śmiała wnić w twoj dom modlitwy|-}}
+# {{lb|zlw-opl|with some adjectives|attested in|Greater Poland}} [[house]]; [[home]] {{gl|place where specialized activities are carried out}}
+#* {{RQ:zlw-opl:BZ|IV Reg|20, 13|(Ezechiasz) vkazal gym '''dom''' drogych mascy y zloto, y srzebro, y lektwarze rozmayte, a mascy, a ssødi, y wszitko, czso mogl myecz w swich skarbyech (ostendit eis domum aromatum et aurum, et argentum, et pigmenta varia, unguenta quoque, et domum vasorum suorum, et omnia, quae habere poterat in thesauris suis)|(Ezechyjasz) ukazał jim '''dom''' drogich maści i złoto, i śrzebro, i lektwarze rozmaite a maści, a sędy i wszytko, cso mogł mieć w swych skarbiech (ostendit eis domum aromatum et aurum, et argentum, et pigmenta varia, unguenta quoque, et domum vasorum suorum, et omnia, quae habere poterat in thesauris suis)|-}}
+#* {{RQ:zlw-opl:Rozm|449|Nye czynczye domv oycza mego '''domv''' kupyeczskyego (nolite facere domum patris mei domum negotiationis Jo 2, 16)!|Nie czyńcie domu ojca mego '''domu''' kupiecskiego (nolite facere domum patris mei domum negotiationis Jo 2, 16)!|-}}
+#* {{RQ:zlw-opl:Rozm|63|Iozeph poyal osyelka... y vyodl y w yeden '''dom''' pospolny (diversorium), yenze tedy byl prozny|Jozef {{...}} pojął osiełka..., i wwiodł ji w jeden '''dom''' pospolny (diversorium), jenże tedy był prozny|-}}
+#* {{RQ:zlw-opl:R|XLVII|359|Fifteenth century|Do nyeczystego '''domu''' ad lupanar|Do nieczystego '''domu''' ad lupanar|-}}
+#* {{RQ:zlw-opl:Erz|13|c. 1500|Nayemny '''dom''' conducibilis domus|Najemny '''dom''' conducibilis domus|-}}
+# {{lb|zlw-opl|attested in|Lesser Poland}} [[house]], [[household]]; [[family]]
+#* {{RQ:zlw-opl:Fl|97, 4|Wzpomonøl iest miloserdzu swemu y prawdze swoiey '''domowi''' Israhel (domui Israel)|Wspomionął jest miłosierdziu swemu i prawdzie swojej '''domowi''' Israhel (domui Israel)|-}}
+
+====Derived terms====
+{{col|zlw-opl|title=noun|dom skrycia}}
+
+====Descendants====
+* {{desc|pl|dom|alts=1}}
+* {{desc|szl|dōm|alts=1}}
+
+===References===
+* {{R:pl:Boryś}}
+* {{R:pl:Sławski}}
+* {{R:pl:Bańkowski}}
+* {{R:zlw-opl:SPJSP}}
+
+{{C|zlw-opl|Buildings}}
+
+==Pass Valley Yali==
+
+===Noun===
+{{head|yac|noun}}
+
+# [[mountain]]
+
+===References===
+* Christiaan Fahner, ''[https://web.archive.org/web/20190403134050/https://www.papuaerfgoed.org/files/fahner_1979_morphology.pdf The morphology of Yali and Dani]'' (1979), page 8
+
+==Polish==
+{{wp|pl:}}
+
+===Alternative forms===
+* {{alt|pl|dóm<q:genitive singular dómu>||Zagórze}}
+
+===Etymology===
+{{etymon|pl|id=house|:inh|zlw-opl:dom<id:house>|tree=1|text=+}}
+
+===Pronunciation===
+{{pl-pr|a=Pl-dom.ogg;Pl-dom-2.ogg;LL-Q809 (pol)-KaMan-dom.wav;LL-Q809 (pol)-Gower-dom.wav|mp=#,dóm}}
+
+===Noun===
+{{pl-noun|m-in|dim=domek}}
+
+# [[house]] {{gl|building for living}}
+#: {{coi|pl|'''dom''' aukcyjny|auction '''house'''}}
+# [[home]] {{gl|place where one resides}}
+#: {{syn|pl|chałupa|chata}}
+#: {{uxi|pl|Idę do '''domu'''.|I'm going '''home'''.}}
+# [[house]], [[household]]; [[family]] {{gl|people within a home}}
+# [[household]] {{gl|all affairs associated with a family within a home}}
+# {{lb|pl|literary}} [[house]] {{gl|royal, aristocratic, or otherwise high-society family}}
+# [[house]]; [[home]] {{gl|place where specialized activities are carried out}}
+
+====Usage notes====
+The form {{m|pl|domie}} in the locative and vocative is considered dated.
+
+It must be noted, however, that ''-ie'' is the regular and productive locative suffix in modern Polish for roots ending with ''-m'' or ''-n''. This is reflected in derived terms, such as brand names ending with ''-dom'', and place names (e.g. {{m|pl|Dom}}), for which the ending is always regularized to ''-ie'' in the locative.
+
+Compare {{m|pl|syn}} and {{m|pl|pan}} for the same exception.
+
+====Declension====
+{{pl-decl-noun-masc-inani|do|m|u|locs=domu/domie|vocs=domu/domie}}
+
+====Derived terms====
+{{col|pl|title=adjectives|domorosły|domowy|bezdomny|z domu|bogaty z domu|z dobrego domu}}
+{{col|pl|title=nouns|dom akademicki|domator|dom bez klamek|domek|domokrążca|domownik|bezdomność|bezdomny|bezdomna|Biały Dom|Dom Boży|dom dziecka|dom gry|dom mediowy|dom modlitwy|dom otwarty|dom pasywny|dom publiczny|dom wariatów|dom zdrojowy|pan domu|pani domu|dom spokojnej starości}}
+{{col|pl|title=phrase|dom jest otwarty}}
+{{col|pl|title=proverbs|gość w dom, Bóg w dom|w domu powieszonego nie mówi się o sznurze|wszędzie dobrze, ale w domu najlepiej|głodno, chłodno i do domu daleko|kto drogi skraca, ten do domu nie wraca|kto nie ma miedzi, ten w domu siedzi|jak kota nie ma w domu, to myszy harcują}}
+{{pl-derived verbs|-/być w domu|-/pełnić honory domu|-/być gościem w domu|poczuć się jak w dom/czuć się jak w domu|-/nazywać się z domu|-/nie mieć wszystkich w domu|postawić cały dom na nogi/stawiać cały dom na nogi}}
+
+====Related terms====
+{{col|pl|title=adverb|bezdomnie}}
+
+===Trivia===
+{{pl-freq 1990|32|59|39|119|124|373|134|82|1}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+* {{R:pl:SXVI|+|48993}}
+* {{R:pl:SXVII|DOM|364|SPas|02.06.2023}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||501|1}}
+* {{R:pl:NFJP}}
+
+{{C|pl|Buildings|Housing}}
+
+==Portuguese==
+
+===Etymology 1===
+From {{inh|pt|roa-opt|dom}}, {{m|roa-opt|don}}, from {{der|pt|la-lat|domnus}}, a syncopated form of {{der|pt|la|dominus|t=lord, master}}. The Latin form survived in ecclesiastical usage, evolving in Old Portuguese (and Western Romance) via cluster simplification from ''-mn-'' to ''-m-''/''-n-'', with {{m|pt|dom}} standardizing in Portuguese and {{m|es|don}} in Spanish.
+
+====Alternative forms====
+* {{alt|pt|dõ||obsolete|abbreviation}}
+
+====Pronunciation====
+{{pt-IPA|br=+|pt=+,[om:ão]<q:dialectal>}}
+* {{rhymes|pt|õ|s=1}}
+* {{homophones|pt|Dom|Dão|qq2=Portugal, dialectal}}
+* {{hyphenation|pt|dom}}
+
+====Noun====
+{{pt-noun|m}}
+
+# [[donation]]; [[gift]]; [[present]]
+# {{lb|pt|figurative}} [[benefit]]; [[merit]]; [[advantage]]; [[power]]; [[privilege]]
+# {{lb|pt|religion}} [[blessing]]; [[grace]]; [[mercy]]
+# [[talent]]; [[aptitude]]; [[ability]]; [[skill]]; [[flair]]
+# {{lb|pt|ironic}} a [[knack]] for [[negative]] [[outcome]]s or [[discredit]]ing [[oneself]]
+
+===Etymology 2===
+
+====Noun====
+{{pt-noun|m}}
+
+# {{alternative case form of|pt|Dom}}
+#* {{quote-journal|pt|date=January 3, 1930|title=O novo abbade benedictino|trans-title=The new Benedictine abbot|journal=Correio da Manhã|url=http://memoria.bn.gov.br/DocReader/089842_04/33|volume=XXIX|issue=10742|page=5|text=A comunidade benedictina reuniu-se hontem para eleger o novo abbade, na vaga de d. Ruperto Rudolf, fallecido em São Paulo.<br>Foi eleito '''dom''' Placido Etaeb.|t=The Benedictine community gathered yesterday to elect a new abbot, in place of Dom Ruperto Rudolf, who died in São Paulo.<br>'''Dom''' Placido Etaeb was elected.}}
+
+=====Related terms=====
+* {{l|pt|dona|g=f}}
+
+===Etymology 3===
+
+====Interjection====
+{{pt-interj}}
+
+# the sound of the low note on a [[berimbau]]
+
+===References===
+* [https://www.infopedia.pt/dicionarios/lingua-portuguesa/dom "dom"] in ''Infopédia'' (in Portuguese).
+* [https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/dom/ "dom"] in ''Michaelis Dicionário Brasileiro'' (in Portuguese).
+
+===Further reading===
+* {{R:pt:Aulete}}
+* {{R:pt:Priberam}}
+
+==Romanian==
+
+===Etymology===
+{{bor+|ro|fr|dôme}}.
+
+===Noun===
+{{ro-noun|n|domuri}}
+
+# [[dome]]
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{inh|sh|sla-pro|*domъ}}, from {{inh|sh|ine-bsl-pro|*damús}}, from {{inh|sh|ine-pro|*dṓm}}, from the root {{inh|sh|ine-pro|*dem-}}.
+
+===Pronunciation===
+* {{IPA|sh|/dôːm/}}
+
+===Noun===
+{{sh-noun|dȏm|m-in}}
+
+# [[home]], [[house]]
+
+====Declension====
+{{sh-decl-noun
+|dȏm|dòmovi
+|dȍma|dòmōvā
+|dȍmu|dòmovima
+|dȏm|dòmove
+|dȍme|dòmovi
+|dòmu|dòmovima
+|dȍmom|dòmovima
+}}
+
+===See also===
+* {{l|sh|kuća}}
+
+===Further reading===
+* {{R:sh:Raskovnik|дом}}
+
+{{C|sh|Buildings}}
+
+==Slovak==
+
+===Alternative forms===
+* {{alt|sk|dům|dúm|dum||obsolete}}
+
+===Etymology===
+{{ety|sk|:inh|sla-pro:*domъ|text=+|tree=1}}
+
+===Pronunciation===
+* {{sk-IPA}}
+* {{audio|sk|LL-Q9058 (slk)-TomášPolonec-dom.wav|a=Bratislava}}
+
+===Noun===
+{{sk-noun|m-in}}
+
+# [[house]]
+
+====Declension====
+{{sk-ndecl|m-in}}
+
+====Derived terms====
+* {{l|sk|domový}}
+* {{l|sk|domček}}
+* {{l|sk|domisko}}
+
+===Further reading===
+* {{R:sk:SDK}}
+
+{{C|sk|Buildings}}
+
+==Slovene==
+
+===Etymology===
+From {{inh|sl|sla-pro|*domъ}}, from {{der|sl|ine-pro|*dṓm}}, from root {{der|sl|ine-pro|*dem-||to build}}.
+
+===Pronunciation===
+* {{sl-IPA|dọ̑m}}
+
+===Noun===
+{{sl-noun|dọ̑m|m-in}}
+
+# [[home]] (house or structure in which someone lives)
+
+====Declension====
+{{sl-decl-noun-m-ov|dóm}}
+{{sl-decl-noun-m|dóm}}
+
+====Derived terms====
+* {{l|sl|zdravstveni dóm|t=health centre}}
+* {{l|sl|gasilski dóm|t=fire station}}
+* {{l|sl|študentski dóm|t=hall of residence}}
+* {{l|sl|dom starejših občanov|t=retirement home}}
+
+===Further reading===
+* {{R:sl:Fran}}
+
+{{C|sl|Buildings}}
+
+==Swedish==
+
+===Etymology 1===
+{{root|sv|ine-pro|*dʰeh₁-}}
+From {{der|sv|non|dómr||judgement}}, from {{der|sv|gem-pro|*dōmaz}}, from {{der|sv|ine-pro|*dʰóh₁mos}}.
+
+====Pronunciation====
+* {{IPA|sv|/ˈdʊm/}}
+
+====Noun====
+{{sv-noun|c}}
+
+# {{lb|sv|legal}} [[conviction]], [[judgement]] of court, [[sentence]], [[verdict]], [[doom]]
+# [[doomsday]], the final judgement
+
+=====Declension=====
+{{sv-infl-noun-c-ar}}
+
+=====Derived terms=====
+{{col2|sv|domedag|domare}}
+
+=====Related terms=====
+* {{l|sv|döma}}
+
+===Etymology 2===
+{{root|sv|ine-pro|*dem-}}
+From {{der|sv|la|domus}}.
+
+====Pronunciation====
+* {{IPA|sv|/ˈdoːm/}}
+
+====Noun====
+{{sv-noun|c}}
+
+# [[dome]]
+
+=====Declension=====
+{{sv-infl-noun-c-er}}
+
+===Etymology 3===
+From the common pronunciation of these words.
+
+====Pronoun====
+{{head|sv|pronoun}}
+
+# {{lb|sv|informal}} {{pronunciation spelling of|sv|de}}
+# {{lb|sv|informal}} {{pronunciation spelling of|sv|dem}}
+
+=====Declension=====
+{{sv-personal pronouns}}
+
+====Article====
+{{head|sv|article}}
+
+# {{lb|sv|informal}} {{pronunciation spelling of|sv|de}}
+
+===References===
+* {{R:svenska.se|so}}
+* {{R:svenska.se|saol}}
+* {{R:svenska.se|saob}}
+
+===Anagrams===
+* {{anagrams|sv|a=dmo|mod}}
+
+==Vietnamese==
+
+===Pronunciation===
+{{vi-IPA}}
+
+===Noun===
+{{vi-noun}}
+
+# {{lb|vi|rare}} [[anus]]
+
+===References===
+* {{R:FVDP|db=ve}}
+
+==Volapük==
+
+===Etymology===
+From {{der|vo|la|domus}}.
+
+===Noun===
+{{vo-noun}}
+
+# [[house]]
+#* {{quote-journal|vo|year=1940|author=|title=Pro yunanef Nedänik|journal=Volapükagased pro Nedänapükans|pages=30, 37|passage=Ziom oba binom bumavan, bumom '''domis''' in zif.|t=My uncle is an architect, he builds '''houses''' in the city.}}
+
+====Declension====
+{{vo-decl-noun}}
+
+====Derived terms====
+* {{l|vo|domü}}
+
+===Further reading===
+* {{R:vo:Vödabuk}}
